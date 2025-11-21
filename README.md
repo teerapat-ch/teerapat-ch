@@ -2,9 +2,9 @@
 
 ### A computer science student
 
-- Name: Teerapat Chanthawatchai, copter, darkblue
+- **Name:** Teerapat Chanthawatchai, copter, darkblue
 
-- I'm currently learning **Web development and IoT**
+- **Goal:** Learn web development and IoT
 
 - **I'm still unemployed**
 
