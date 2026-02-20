@@ -2,7 +2,7 @@
 
 ### A computer science student
 
-- I'm currently learning **Arduino, Web development, and more**
+- I'm currently studying at **KMUTNB**
 
 - My Gmail: **teerapatchan.work@gmail.com**
 
